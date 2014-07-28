@@ -81,14 +81,14 @@
   <!-- profiles -->
   <profiles>
     <profile>
-      <id>local</id>
+      <id>firefox_local</id>
       <properties>
         <env>local</env>
         <user.username></user.username>
         <user.password></user.password>
         <grid2.hub></grid2.hub>
-        <site.url></site.url>
-        <browser.name></browser.name>
+        <site.url>http://192.168.0.105</site.url>
+        <browser.name>firefox</browser.name>
         <browser.version></browser.version>
         <browser.platform></browser.platform>
       </properties>
@@ -97,26 +97,26 @@
       </activation>
     </profile>
     <profile>
-      <id>dev</id>
+      <id>chrome_local</id>
       <properties>
         <env>dev</env>
         <user.username></user.username>
         <user.password></user.password>
         <grid2.hub></grid2.hub>
-        <site.url></site.url>
-        <browser.name></browser.name>
+        <site.url>http://192.168.0.105</site.url>
+        <browser.name>chrome</browser.name>
         <browser.version></browser.version>
         <browser.platform></browser.platform>
       </properties>
     </profile>
     <profile>
-      <id>test</id>
+      <id>ie_local</id>
       <properties>
         <env>test</env>
         <user.username></user.username>
         <user.password></user.password>
         <grid2.hub></grid2.hub>
-        <site.url></site.url>
+        <site.url>http://192.168.0.105</site.url>
         <browser.name></browser.name>
         <browser.version></browser.version>
         <browser.platform></browser.platform>
@@ -129,7 +129,7 @@
         <user.username></user.username>
         <user.password></user.password>
         <grid2.hub></grid2.hub>
-        <site.url></site.url>
+        <site.url>http://192.168.0.105</site.url>
         <browser.name></browser.name>
         <browser.version></browser.version>
         <browser.platform></browser.platform>
