@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19375" started-at="2014-07-28T17:07:37Z" finished-at="2014-07-28T17:07:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19375" started-at="2014-07-28T17:07:37Z" finished-at="2014-07-28T17:07:56Z">
+      <class name="ru.st.selenium.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.LoginTest@1650cea]" name="init" is-config="true" duration-ms="13625" started-at="2014-07-28T21:07:37Z" finished-at="2014-07-28T21:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:ru.st.selenium.LoginTest@1650cea]" name="testUntitled" duration-ms="5719" started-at="2014-07-28T21:07:50Z" finished-at="2014-07-28T21:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.st.selenium.LoginTest@1650cea]" name="tearDown" is-config="true" duration-ms="1375" started-at="2014-07-28T21:07:56Z" finished-at="2014-07-28T21:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ru.st.selenium.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
